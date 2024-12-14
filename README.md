@@ -63,7 +63,7 @@ Here are a few of my recent projects:
 
 ### 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abimannans&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 ---
 
